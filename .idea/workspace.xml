@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9fed942-2df8-4546-bac1-994ad44f0c38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS-Assignment-04.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icons8-ambulance-100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icons8-buy-100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icons8-contact-100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icons8-internet-folder-100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icons8-layer-100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case1.html" afterDir="false" />
-    </list>
+    <list default="true" id="e9fed942-2df8-4546-bac1-994ad44f0c38" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +34,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Lenovo/Documents/Project/CSS-Assignment-04/assets/images",
     "node.js.detected.package.eslint": "true",
@@ -72,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725609652875</updated>
-      <workItem from="1725609654008" duration="6522000" />
+      <workItem from="1725609654008" duration="6617000" />
     </task>
     <servers />
   </component>
