@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9fed942-2df8-4546-bac1-994ad44f0c38" name="Changes" comment="" />
+    <list default="true" id="e9fed942-2df8-4546-bac1-994ad44f0c38" name="Changes" comment="case3 implemented successfully">
+      <change afterPath="$PROJECT_DIR$/case4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case2.html" beforeDir="false" afterPath="$PROJECT_DIR$/case2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case3.html" beforeDir="false" afterPath="$PROJECT_DIR$/case3.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,31 +25,31 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2lglYYdRvNYQB86054mpshGLtSM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Lenovo/Documents/Project/CSS-Assignment-04/assets/images",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/Documents/Project/CSS-Assignment-04/assets/images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Lenovo\Documents\Project\CSS-Assignment-04\assets\images" />
@@ -59,11 +64,49 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725609652875</updated>
-      <workItem from="1725609654008" duration="6617000" />
+      <workItem from="1725609654008" duration="13240000" />
+      <workItem from="1725687605497" duration="526000" />
+      <workItem from="1725799666902" duration="40000" />
+      <workItem from="1725852671864" duration="597000" />
+      <workItem from="1725897959057" duration="476000" />
+      <workItem from="1726307670313" duration="2175000" />
+      <workItem from="1726451700482" duration="34000" />
+      <workItem from="1727493184748" duration="2750000" />
     </task>
+    <task id="LOCAL-00001" summary="case1 updated">
+      <option name="closed" value="true" />
+      <created>1725635214822</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725635214822</updated>
+    </task>
+    <task id="LOCAL-00002" summary="case2 implemented">
+      <option name="closed" value="true" />
+      <created>1725638640896</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725638640896</updated>
+    </task>
+    <task id="LOCAL-00003" summary="case3 implemented successfully">
+      <option name="closed" value="true" />
+      <created>1725640542439</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725640542439</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="case1 updated" />
+    <MESSAGE value="case2 implemented" />
+    <MESSAGE value="case3 implemented successfully" />
+    <option name="LAST_COMMIT_MESSAGE" value="case3 implemented successfully" />
   </component>
 </project>

@@ -7,56 +7,62 @@
     <meta name="author" content="ijse">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Case-02</title>
     <link rel="stylesheet" href="assets/normalize.css">
+    <title>Case2</title>
 
     <style>
-        body>div {
-            width: 20vw;
-            height: 15vh;
-            background: darkorange;
-            border-radius: 25px;
-            animation: myAnimation 10s;
-            animation-name: my-animation;
-            animation-iteration-count: infinite;
-            animation-timing-function: linear;
-            animation-direction: alternate;
-            animation-play-state: running;
+        body {
+            background: indigo;
         }
 
-        @keyframes my-animation {
-            0% {
-                background: maroon;
-            }
+        div {
+            width: 15vw;
+            aspect-ratio: 1/1;
+            background: gray;
+            border-radius: 100%;
+            position: fixed;
+            top: 0;
+            bottom: 0;
+            right: 0;
+            left: 0;
+            margin: auto;
+        }
 
-            25% {
-                background: red;
-                margin-left: 70vw;
-                transform: rotate(180deg);
-            }
+        div>h1 {
+            width: max-content;
+            height: max-content;
+            position: fixed;
+            color: white;
+            top: 0;
+            bottom: 0;
+            right: 0;
+            left: 0;
+            margin: auto;
+        }
 
-            50% {
-                background: deeppink;
-                margin-right: 70vw;
-            }
+        div::before {
+            content: "";
+            border: 10px solid white;
+            border-radius: 100%;
+            border-top-color: red;
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            margin: auto;
 
-            75% {
-                background: blueviolet;
-                margin-top: 30vw;
-            }
+            transition-duration: 2s;
+        }
 
-            100% {
-                background: blue;
-                margin-left: 30vw;
-            }
-
+        div:hover::before {
+            transform: rotate(360deg);
         }
     </style>
-
 </head>
 <body>
-
-<div></div>
-
+<div>
+    <h1>RWAD</h1>
+</div>
 </body>
 </html>
