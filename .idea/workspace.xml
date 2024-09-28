@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9fed942-2df8-4546-bac1-994ad44f0c38" name="Changes" comment="case3 implemented successfully">
-      <change afterPath="$PROJECT_DIR$/case4.html" afterDir="false" />
+    <list default="true" id="e9fed942-2df8-4546-bac1-994ad44f0c38" name="Changes" comment="case2 implemented successfully">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/case2.html" beforeDir="false" afterPath="$PROJECT_DIR$/case2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/case3.html" beforeDir="false" afterPath="$PROJECT_DIR$/case3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +69,7 @@
       <workItem from="1725897959057" duration="476000" />
       <workItem from="1726307670313" duration="2175000" />
       <workItem from="1726451700482" duration="34000" />
-      <workItem from="1727493184748" duration="2750000" />
+      <workItem from="1727493184748" duration="4490000" />
     </task>
     <task id="LOCAL-00001" summary="case1 updated">
       <option name="closed" value="true" />
@@ -97,7 +95,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725640542439</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="case2 implemented successfully">
+      <option name="closed" value="true" />
+      <created>1727496193334</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727496193334</updated>
+    </task>
+    <task id="LOCAL-00005" summary="case2 implemented successfully">
+      <option name="closed" value="true" />
+      <created>1727496467262</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727496467262</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +121,7 @@
     <MESSAGE value="case1 updated" />
     <MESSAGE value="case2 implemented" />
     <MESSAGE value="case3 implemented successfully" />
-    <option name="LAST_COMMIT_MESSAGE" value="case3 implemented successfully" />
+    <MESSAGE value="case2 implemented successfully" />
+    <option name="LAST_COMMIT_MESSAGE" value="case2 implemented successfully" />
   </component>
 </project>
