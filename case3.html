@@ -15,9 +15,15 @@
             overflow: hidden;
         }
 
+        :root {
+            /*Variable defining*/
+            --width: 16vw;
+            --height: 15vh
+        }
+
         body>div {
-            width: 16vw;
-            height: 15vh;
+            width: var(--width);
+            height: var(--height);
             background: darkorange;
             border-radius: 25px;
             animation: myAnimation 5s;
@@ -36,22 +42,22 @@
             }
 
             25% {
-                margin-left: calc(100vw - 16vw);
+                margin-left: calc(100vw - var(--width));
                 margin-top: 0;
                 background: red;
                 transform: rotate(180deg);
             }
 
             50% {
-                margin-left: calc(100vw - 16vw);
-                margin-top: calc(100vh - 15vh);
+                margin-left: calc(100vw - var(--width));
+                margin-top: calc(100vh - var(--height));
                 background: deeppink;
                 transform: rotate(0deg);
             }
 
             75% {
                 margin-left: 0;
-                margin-top: calc(100vh - 15vh);
+                margin-top: calc(100vh - var(--height));
                 background: blueviolet;
                 transform: rotate(-180deg);
             }
