@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9fed942-2df8-4546-bac1-994ad44f0c38" name="Changes" comment="case3 implemented successfully">
-      <change afterPath="$PROJECT_DIR$/assets/images/slide1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/slide2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/slide3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/slide4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/case3.html" beforeDir="false" afterPath="$PROJECT_DIR$/case3.html" afterDir="false" />
-    </list>
+    <list default="true" id="e9fed942-2df8-4546-bac1-994ad44f0c38" name="Changes" comment="case5 implemented successfully" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +69,7 @@
       <workItem from="1727493184748" duration="9281000" />
       <workItem from="1727509840889" duration="100000" />
       <workItem from="1727527220597" duration="70000" />
+      <workItem from="1728019341595" duration="1216000" />
     </task>
     <task id="LOCAL-00001" summary="case1 updated">
       <option name="closed" value="true" />
@@ -126,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727498142375</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="case5 implemented successfully">
+      <option name="closed" value="true" />
+      <created>1728019366810</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728019366810</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +138,7 @@
     <MESSAGE value="case2 implemented" />
     <MESSAGE value="case2 implemented successfully" />
     <MESSAGE value="case3 implemented successfully" />
-    <option name="LAST_COMMIT_MESSAGE" value="case3 implemented successfully" />
+    <MESSAGE value="case5 implemented successfully" />
+    <option name="LAST_COMMIT_MESSAGE" value="case5 implemented successfully" />
   </component>
 </project>
